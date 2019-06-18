@@ -38,14 +38,13 @@ export default {
 
 
 ```html
-··· 不同类型键盘 ···
 <template>
     <keypanel type="tel" extra-parent-el=".hui-flexview"/>
 </template>
 
 ```
 
-:::tip
+<b>提示：</b>
 
 `digital` 、 `number` 、`numAndSymbol` 的区别：
 
@@ -55,7 +54,6 @@ export default {
 
 `numAndSymbol` 表示显示数字和符号的键盘；
 
-:::
 
 ### Props 
 
